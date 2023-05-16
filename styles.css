@@ -1,0 +1,12 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #73343A;
+    color: ivory;
+}
+
+ul {
+    list-style: none;
+    color: blue;
+}
+

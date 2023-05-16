@@ -1,0 +1,24 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: brown;
+    color: darkorange;
+  }
+
+ul {
+    list-style: none;
+}
+
+ol {
+  text-align: left;
+}
+
+.facts {
+  font-weight: bold;
+}
+
+.description {
+  background-color: yellow;
+  font-style: italic;
+}
+
